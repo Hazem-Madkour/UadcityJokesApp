@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardview_response_radius">6dp</dimen>
+    <dimen name="text_joke_size">20sp</dimen>
+    <dimen name="cardview_margin">32dp</dimen>
+    <dimen name="text_joke_padding">16dp</dimen>
+    <dimen name="cardview_elevation">6dp</dimen>
+    <dimen name="text_joke_margin_top">8dp</dimen>
+</resources>
