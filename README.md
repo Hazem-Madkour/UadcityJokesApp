@@ -1,5 +1,5 @@
 # Jokes App
-Udacity Android Nanodegree Build It Bigger App (Project 4)
+App for [Udacity Android Nanodegree](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801), Build It Bigger App (Project 4)
 
 # Demo Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SjPsIqJ6mJY
